@@ -1,0 +1,15 @@
+C:\Users\Enrica\Desktop\Preacademy\Week5Renata\Enrica\EsameStudenteWeek5\EsameStudenteWeek5\obj\Debug\net6.0\EsameStudenteWeek5.csproj.AssemblyReference.cache
+C:\Users\Enrica\Desktop\Preacademy\Week5Renata\Enrica\EsameStudenteWeek5\EsameStudenteWeek5\obj\Debug\net6.0\EsameStudenteWeek5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enrica\Desktop\Preacademy\Week5Renata\Enrica\EsameStudenteWeek5\EsameStudenteWeek5\obj\Debug\net6.0\EsameStudenteWeek5.AssemblyInfoInputs.cache
+C:\Users\Enrica\Desktop\Preacademy\Week5Renata\Enrica\EsameStudenteWeek5\EsameStudenteWeek5\obj\Debug\net6.0\EsameStudenteWeek5.AssemblyInfo.cs
+C:\Users\Enrica\Desktop\Preacademy\Week5Renata\Enrica\EsameStudenteWeek5\EsameStudenteWeek5\obj\Debug\net6.0\EsameStudenteWeek5.csproj.CoreCompileInputs.cache
+C:\Users\Enrica\Desktop\Preacademy\Week5Renata\Enrica\EsameStudenteWeek5\EsameStudenteWeek5\bin\Debug\net6.0\EsameStudenteWeek5.exe
+C:\Users\Enrica\Desktop\Preacademy\Week5Renata\Enrica\EsameStudenteWeek5\EsameStudenteWeek5\bin\Debug\net6.0\EsameStudenteWeek5.deps.json
+C:\Users\Enrica\Desktop\Preacademy\Week5Renata\Enrica\EsameStudenteWeek5\EsameStudenteWeek5\bin\Debug\net6.0\EsameStudenteWeek5.runtimeconfig.json
+C:\Users\Enrica\Desktop\Preacademy\Week5Renata\Enrica\EsameStudenteWeek5\EsameStudenteWeek5\bin\Debug\net6.0\EsameStudenteWeek5.dll
+C:\Users\Enrica\Desktop\Preacademy\Week5Renata\Enrica\EsameStudenteWeek5\EsameStudenteWeek5\bin\Debug\net6.0\ref\EsameStudenteWeek5.dll
+C:\Users\Enrica\Desktop\Preacademy\Week5Renata\Enrica\EsameStudenteWeek5\EsameStudenteWeek5\bin\Debug\net6.0\EsameStudenteWeek5.pdb
+C:\Users\Enrica\Desktop\Preacademy\Week5Renata\Enrica\EsameStudenteWeek5\EsameStudenteWeek5\obj\Debug\net6.0\EsameStudenteWeek5.dll
+C:\Users\Enrica\Desktop\Preacademy\Week5Renata\Enrica\EsameStudenteWeek5\EsameStudenteWeek5\obj\Debug\net6.0\ref\EsameStudenteWeek5.dll
+C:\Users\Enrica\Desktop\Preacademy\Week5Renata\Enrica\EsameStudenteWeek5\EsameStudenteWeek5\obj\Debug\net6.0\EsameStudenteWeek5.pdb
+C:\Users\Enrica\Desktop\Preacademy\Week5Renata\Enrica\EsameStudenteWeek5\EsameStudenteWeek5\obj\Debug\net6.0\EsameStudenteWeek5.genruntimeconfig.cache
